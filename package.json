@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@cloudant/cloudant": "^4.5.1",
+    "dotenv": "^16.4.5",
+    "pouchdb": "^9.0.0",
+    "save": "^2.9.0"
+  }
+}

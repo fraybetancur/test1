@@ -1,0 +1,3 @@
+CLOUDANT_USERNAME = "apikey-v2-xgsacvshct5txbasvoks43qebw7r2vw3hnntyej9vuz"
+CLOUDANT_PASSWORD = "27f339dda781cc0dfaf652dc01192a35"
+CLOUDANT_URL = "https://apikey-v2-xgsacvshct5txbasvoks43qebw7r2vw3hnntyej9vuz:27f339dda781cc0dfaf652dc01192a35@c9efcc17-6575-4ea9-9190-1faaa775d47e-bluemix.cloudantnosqldb.appdomain.cloud"
